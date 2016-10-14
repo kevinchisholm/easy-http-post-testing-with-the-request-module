@@ -1,5 +1,5 @@
 {
-  "name"         : "node-web-scraping-with-cheerio",
+  "name"         : "easy-http-post-testing-with-the-request-module",
   "version"      : "0.0.1",
   "description"  : "Easy HTTP POST testing with the request module.",
   "author"       : "Kevin Chisholm",
