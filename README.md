@@ -19,14 +19,10 @@ What you need to run this app:
 
 ### Running the examples
 
-#### Example # 1:
+* Open up two terminal windows (terminal A and terminal B), and make sure that you are in the root of the repository folder.
+* In **terminal A**, execute this command: **node post-server.js**.
+* In **terminal B**, execute this command: **node test-post.js**.
+* In **terminal A**, you should see the message: **The POST data received was XXX**.
+* In **terminal A**, you should see the message: **JSON response from the server: XXX**.
 
-* node example-1.js
-
-#### Example # 2:
-
-* node example-2.js
-* 
-#### Example # 3:
-
-* node example-3.js
+_(In each case, **XXX** represents the data from the HTTP POST request)_
